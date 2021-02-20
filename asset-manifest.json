@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7caac954.chunk.css",
+    "main.js": "/static/js/main.78a9d98c.chunk.js",
+    "main.js.map": "/static/js/main.78a9d98c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/js/2.aa5250fc.chunk.js": "/static/js/2.aa5250fc.chunk.js",
+    "static/js/2.aa5250fc.chunk.js.map": "/static/js/2.aa5250fc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7caac954.chunk.css.map": "/static/css/main.7caac954.chunk.css.map",
+    "static/js/2.aa5250fc.chunk.js.LICENSE.txt": "/static/js/2.aa5250fc.chunk.js.LICENSE.txt",
+    "static/media/cpp.4d7dd8e1.svg": "/static/media/cpp.4d7dd8e1.svg",
+    "static/media/csharp.a24927bd.svg": "/static/media/csharp.a24927bd.svg",
+    "static/media/css3.ea71c44d.svg": "/static/media/css3.ea71c44d.svg",
+    "static/media/dotnet.4e959084.svg": "/static/media/dotnet.4e959084.svg",
+    "static/media/electron.039e8cdc.svg": "/static/media/electron.039e8cdc.svg",
+    "static/media/git.7d6cc689.svg": "/static/media/git.7d6cc689.svg",
+    "static/media/heroku.aed97726.svg": "/static/media/heroku.aed97726.svg",
+    "static/media/html5.06f35cc5.svg": "/static/media/html5.06f35cc5.svg",
+    "static/media/java.c1205dda.svg": "/static/media/java.c1205dda.svg",
+    "static/media/js.8f573dca.svg": "/static/media/js.8f573dca.svg",
+    "static/media/materialui.eb6ea8b5.svg": "/static/media/materialui.eb6ea8b5.svg",
+    "static/media/mongodb.d793e495.svg": "/static/media/mongodb.d793e495.svg",
+    "static/media/profile.2c4b1bd4.jpg": "/static/media/profile.2c4b1bd4.jpg",
+    "static/media/python.bb813c78.svg": "/static/media/python.bb813c78.svg",
+    "static/media/react.8810a89b.svg": "/static/media/react.8810a89b.svg",
+    "static/media/sass.7b83b2aa.svg": "/static/media/sass.7b83b2aa.svg",
+    "static/media/tailwindcss.91bbceb2.svg": "/static/media/tailwindcss.91bbceb2.svg",
+    "static/media/ts.f112fad3.svg": "/static/media/ts.f112fad3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/js/2.aa5250fc.chunk.js",
+    "static/css/main.7caac954.chunk.css",
+    "static/js/main.78a9d98c.chunk.js"
+  ]
+}
